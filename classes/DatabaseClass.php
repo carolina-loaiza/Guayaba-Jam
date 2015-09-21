@@ -5,10 +5,10 @@
 */
 class Database{	
 	// private variables
-	private $username = 	'admi';
-	private $password = 	'';
-	private $host = 		'localhost';
-	private $database = 	'guayabadata';
+	private $username = 	'sql590801';
+	private $password = 	'nN1*rI5%';
+	private $host = 	'sql5.freesqldatabase.com';
+	private $database = 	'sql590801';
 	private $charset = array(
 		'charset' => 'utf8'
 	);
